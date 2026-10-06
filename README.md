@@ -4,11 +4,13 @@ Installers and the update feed for LogosVox on Windows and macOS. The main appli
 
 | Platform | Download |
 | --- | --- |
-| Windows x64 | [Installer](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-win-x64.exe) |
-| macOS Apple Silicon | [DMG](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-mac-arm64.dmg) |
-| macOS Intel | [DMG](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-mac-x64.dmg) |
+| Windows x64 | [Installer](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.2/LogosVox-Companion-1.9.2-win-x64.exe) |
+| macOS Apple Silicon | [DMG](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.2/LogosVox-Companion-1.9.2-mac-arm64.dmg) |
+| macOS Intel | [DMG](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.2/LogosVox-Companion-1.9.2-mac-x64.dmg) |
 
-[Release notes and SHA-256 checksums](https://github.com/berkkosar/logosvox-companion-releases/releases/tag/v1.9.1)
+[Release notes and SHA-256 checksums](https://github.com/berkkosar/logosvox-companion-releases/releases/tag/v1.9.2)
+
+Version 1.9.2 fixes Windows local image generation when cloud models are unavailable and reduces FLUX VRAM pressure on GPUs with 8 GB or less. The installed FLUX.2 Klein engine generated a 1024px image in 224 seconds on an RTX 4050 6 GB; the signed-in production Image page also completed a local request at zero credits. macOS local image inference is not supported by this engine adapter yet.
 
 Sign in with LogosVox and pair your PC. Open the full workspace and approve the desktop connection once in your regular browser. Chat, Create, music, files, storage and credits share the real LogosVox web interface; web improvements reach the desktop without a new installer. The shared floating Logos can sit above other apps.
 
