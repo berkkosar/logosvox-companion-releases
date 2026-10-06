@@ -4,11 +4,11 @@ Installers and the update feed for LogosVox on Windows and macOS. The main appli
 
 | Platform | Download |
 | --- | --- |
-| Windows x64 | [Installer](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.0/LogosVox-Companion-1.9.0-win-x64.exe) |
-| macOS Apple Silicon | [DMG](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.0/LogosVox-Companion-1.9.0-mac-arm64.dmg) |
-| macOS Intel | [DMG](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.0/LogosVox-Companion-1.9.0-mac-x64.dmg) |
+| Windows x64 | [Installer](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-win-x64.exe) |
+| macOS Apple Silicon | [DMG](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-mac-arm64.dmg) |
+| macOS Intel | [DMG](https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-mac-x64.dmg) |
 
-[Release notes and SHA-256 checksums](https://github.com/berkkosar/logosvox-companion-releases/releases/tag/v1.9.0)
+[Release notes and SHA-256 checksums](https://github.com/berkkosar/logosvox-companion-releases/releases/tag/v1.9.1)
 
 Sign in with LogosVox and pair your PC. Open the full workspace and approve the desktop connection once in your regular browser. Chat, Create, music, files, storage and credits share the real LogosVox web interface; web improvements reach the desktop without a new installer. The shared floating Logos can sit above other apps.
 
@@ -19,3 +19,5 @@ Start the PC connection to use its models from other devices while it is on and 
 These are unsigned preview installers; macOS builds are not notarized. Windows local chat and cancellation were tested on Windows. macOS packages and the account gate/startup were checked in macOS CI, not local inference on Mac hardware. Mouse/keyboard tasks currently work on Windows only.
 
 Updates are checked at startup and periodically. You choose when to download and install; account pairing and downloaded models are preserved. Close Companion before upgrading.
+
+Only one floating helper is shown at a time. Opening PC controls replaces the floating Logos; reopening Logos reuses its window. The desktop connection button is visible in light and dark themes.
