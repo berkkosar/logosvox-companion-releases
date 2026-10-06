@@ -1,37 +1,36 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "signed": false,
-  "publishedAt": "2026-10-05T23:00:50.791Z",
   "assets": [
     {
-      "name": "LogosVox-Companion-1.9.0-mac-arm64.dmg",
-      "size": 128059363,
-      "sha256": "44c30049f70f0171eea0136a67cdfc0f8fd1418730c9869e3ee44338beb2de9b",
-      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.0/LogosVox-Companion-1.9.0-mac-arm64.dmg"
+      "name": "LogosVox-Companion-1.9.1-mac-arm64.dmg",
+      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-mac-arm64.dmg",
+      "sha256": "39a05269409349e368fdff12c7957b18f774e0db91daed7d5f757726d1975f0d",
+      "size": 128059434
     },
     {
-      "name": "LogosVox-Companion-1.9.0-mac-arm64.zip",
-      "size": 127978916,
-      "sha256": "36d79d01e3029b94aa069bba8d9304d16ee108970b7ebfb92612ae79bca30cbd",
-      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.0/LogosVox-Companion-1.9.0-mac-arm64.zip"
+      "name": "LogosVox-Companion-1.9.1-mac-arm64.zip",
+      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-mac-arm64.zip",
+      "sha256": "ddebb31dfaf4a102809f519ec01a71295c02a5e14f1b4c582feac33ecfd2765f",
+      "size": 127979514
     },
     {
-      "name": "LogosVox-Companion-1.9.0-mac-x64.dmg",
-      "size": 131917663,
-      "sha256": "aff959c8d2a7a55e3427919ac7854ec0d7d8fe6f6386edb13ad2c23d6d0f3938",
-      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.0/LogosVox-Companion-1.9.0-mac-x64.dmg"
+      "name": "LogosVox-Companion-1.9.1-mac-x64.dmg",
+      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-mac-x64.dmg",
+      "sha256": "c24051796851d8b2a829525e14df1d07477879c7b60487fb3b9751d60ceafffc",
+      "size": 131917946
     },
     {
-      "name": "LogosVox-Companion-1.9.0-mac-x64.zip",
-      "size": 131880182,
-      "sha256": "2bea26a7b29f2978eafd72fed29b8e22c0a8630d4ba48d6183f61b2a11582ffc",
-      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.0/LogosVox-Companion-1.9.0-mac-x64.zip"
+      "name": "LogosVox-Companion-1.9.1-mac-x64.zip",
+      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-mac-x64.zip",
+      "sha256": "dd2c9b666cc6c76c3b88222b9c02a55a715663b3c730ff92d35a35ff7e3294df",
+      "size": 131880780
     },
     {
-      "name": "LogosVox-Companion-1.9.0-win-x64.exe",
-      "size": 111471002,
-      "sha256": "223c75429879fbb493fa37d2a8a64cfde8468317cb293b8c5d303372371a4e98",
-      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.0/LogosVox-Companion-1.9.0-win-x64.exe"
+      "name": "LogosVox-Companion-1.9.1-win-x64.exe",
+      "url": "https://github.com/berkkosar/logosvox-companion-releases/releases/download/v1.9.1/LogosVox-Companion-1.9.1-win-x64.exe",
+      "sha256": "d0ca2571af1283c0c2ddc2aebdba95cae1e1282bf81f19a6f7dac620f44d009d",
+      "size": 111470956
     }
   ]
 }
